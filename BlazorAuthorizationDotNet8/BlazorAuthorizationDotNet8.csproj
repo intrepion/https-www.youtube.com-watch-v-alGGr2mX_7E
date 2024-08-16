@@ -16,4 +16,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.7" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorAuthorizationDotNet8.BusinessLogic\BlazorAuthorizationDotNet8.BusinessLogic.csproj" />
+  </ItemGroup>
+
 </Project>
