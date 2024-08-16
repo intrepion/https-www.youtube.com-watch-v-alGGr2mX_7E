@@ -21,4 +21,8 @@
     <Using Include="NUnit.Framework" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorAuthorizationDotNet8.BusinessLogic\BlazorAuthorizationDotNet8.BusinessLogic.csproj" />
+  </ItemGroup>
+
 </Project>
