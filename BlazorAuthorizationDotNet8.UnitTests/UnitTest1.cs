@@ -1,4 +1,4 @@
-namespace BlazorAuthorizationDotNet8.UnitTests;
+﻿namespace BlazorAuthorizationDotNet8.UnitTests;
 
 public class Tests
 {
