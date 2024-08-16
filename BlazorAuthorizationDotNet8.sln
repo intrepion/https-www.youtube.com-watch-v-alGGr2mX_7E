@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthorizationDotNet8.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthorizationDotNet8.ConsoleProject", "BlazorAuthorizationDotNet8.ConsoleProject\BlazorAuthorizationDotNet8.ConsoleProject.csproj", "{C6C19C36-E764-4C17-92B9-2E5DE4074AB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthorizationDotNet8.AcceptanceTests", "BlazorAuthorizationDotNet8.AcceptanceTests\BlazorAuthorizationDotNet8.AcceptanceTests.csproj", "{C3B8FA8E-509A-42E7-86AB-265C26205C6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -110,6 +112,18 @@ Global
 		{C6C19C36-E764-4C17-92B9-2E5DE4074AB9}.Release|x64.Build.0 = Release|Any CPU
 		{C6C19C36-E764-4C17-92B9-2E5DE4074AB9}.Release|x86.ActiveCfg = Release|Any CPU
 		{C6C19C36-E764-4C17-92B9-2E5DE4074AB9}.Release|x86.Build.0 = Release|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Debug|x64.Build.0 = Debug|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Debug|x86.Build.0 = Debug|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Release|x64.ActiveCfg = Release|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Release|x64.Build.0 = Release|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Release|x86.ActiveCfg = Release|Any CPU
+		{C3B8FA8E-509A-42E7-86AB-265C26205C6F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
